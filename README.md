@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # login-page
 
 This is a simple login page I practiced...
